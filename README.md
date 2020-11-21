@@ -1,5 +1,5 @@
 # mp4toshell
-Create mp4 payload to reverse shell in linux
+Create mp4 payload to reverse shell on linux
 
 This exploit work using vulnerability code exexution on file manager,
 when a user extract the payload using affected file manager the *.deskop file will converted as *.mp4 and useing an video thumbnail.
