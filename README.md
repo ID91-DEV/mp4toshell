@@ -12,3 +12,4 @@ Affected Systems:
 - Xubuntu 18.04/XFCE4/Thunar
 - Fedora 30/MATE/Caja
 - MX Linux/XFCE4/Thunar
+
